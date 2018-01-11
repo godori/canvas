@@ -1,7 +1,7 @@
-# Something Exercise
+## Something Exercise
 
-# Canvas Tutorial
+### Canvas Tutorial
 - https://youtu.be/vxljFhP2krI
 
-# Electron Tutorial
+### Electron Tutorial
 https://www.youtube.com/user/maxchaor/videos
